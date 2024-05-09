@@ -1,4 +1,4 @@
-# Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-07.09.2024
+# Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-Kursu-07.09.2024
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
 + Kurs __13 Temmuz 2024 Cumartesi__ günü başlayacaktır.

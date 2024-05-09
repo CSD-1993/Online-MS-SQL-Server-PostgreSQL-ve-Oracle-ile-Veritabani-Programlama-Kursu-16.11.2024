@@ -1,0 +1,1 @@
+# Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-7.09.2024

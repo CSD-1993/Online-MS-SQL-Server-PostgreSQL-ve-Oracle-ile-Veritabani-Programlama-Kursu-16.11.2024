@@ -4,7 +4,7 @@
 + Kurs __13 Temmuz 2024 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
-+ oplam kurs süresi __140__ saattir. Dersler __Cumartesi ve Pazar__ günleri __21:00 - 24:00__ saatleri arasında yapılacaktır.
++ Toplam kurs süresi __140__ saattir. Dersler __Cumartesi ve Pazar__ günleri __21:00 - 24:00__ saatleri arasında yapılacaktır.
 + Kursumuzun toplam ücreti KDV dahil __23.800__ TL’dir(Peşin ödemede __21.400__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __21.000__ TL’dir (peşin ödemede __18.750__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar

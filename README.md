@@ -4,7 +4,8 @@
 + Kursumuz __7 Eylül 2024__ Cuma günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
-+ Toplam kurs süresi __140__ saattir. Dersler __Cumartesi__ ve __Pazar__ günleri __21:00 - 24:00__ saatleri arasında yapılacaktır.
++ oplam kurs süresi __140__ saattir. Dersler __Cumartesi ve Pazar__ günleri __21:00 - 24:00__ saatleri arasında yapılacaktır.
++ Kursumuzun toplam ücreti KDV dahil __23.800__ TL’dir(Peşin ödemede __21.400__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __21.000__ TL’dir (peşin ödemede __18.750__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-kursu-29.09.2023/blob/main/kurs_tanitimi.md)

@@ -14,7 +14,7 @@
 + Kurs içerisinde irili ufaklı bir çok veritabanı tasarlanacak ve programlaması yapılacaktır
 
 ## Ön Koşul
-Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da denzeri bir programı tamamlamış olmalısınız.
+Bu programa katılabilmek için daha önce programlama ile tanışmış olmanız gerekmektedir. Derneğimizde düzenlenmekte olan _Programlamaya Giriş_ ya da benzeri bir programı tamamlamış olmalısınız.
 
 ## Eğitim Süresi
 Programın toplam süresi __140__ saattir. 

@@ -1,7 +1,7 @@
 # Online-MS-SQL-Server-PostgreSQL-ve-Oracle-ile-Veritabani-Programlama-Kursu-07.09.2024
 
 + Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
-+ Kurs __13 Temmuz 2024 Cumartesi__ günü başlayacaktır.
++ Kurs __7 Eylül 2024 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __140__ saattir. Dersler __Cumartesi ve Pazar__ günleri __21:00 - 24:00__ saatleri arasında yapılacaktır.

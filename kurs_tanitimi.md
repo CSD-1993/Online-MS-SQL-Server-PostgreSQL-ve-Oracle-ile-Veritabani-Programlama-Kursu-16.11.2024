@@ -68,7 +68,7 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _MS-SQL Server, PostgreSQL ve Oracle ile Veritabanı Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Kursumuzun toplam ücreti KDV dahil __23.800__ TL’dir(Peşin ödemede __21.400__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __21.000__ TL’dir (peşin ödemede __18.750__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
+Kursumuzun toplam ücreti KDV dahil __23.800__ TL’dir(Peşin ödemede __21.400__ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __21.000__ TL’dir (peşin ödemede __18.750__ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 3 taksit olarak ödeyebilirsiniz.
 ## Eğitim Programına Kayıt
 [Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZYkceqvrTIiGNbNSg0OLSYM2vPV20Ll5ObE#/registration ). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
